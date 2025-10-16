@@ -1,19 +1,10 @@
-<h1 align="center">Hi there 👋 I'm Riana 👩‍💻</h1>
+<h1 align="left">Hi there 👋 I'm Riana </h1>
 
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td width="40%" style="border: none; vertical-align: middle;">
-      <p>
-        I am a Web & mobile developer. I love turning ideas into polished, user-friendly interfaces. 
-        Breaking glass ceilings and bugs, one feature at a time.<br/>
-        Because life is better with frictionless UI/UX.
-      </p>
-    </td>
-    <td width="60%" align="right" style="border: none;">
-      <img width="500" src="https://pbs.twimg.com/media/DG95aO7VwAArm69?format=jpg&name=large" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="500" src="https://pbs.twimg.com/media/DG95aO7VwAArm69?format=jpg&name=large">
+
+
+I am a Web & mobile developer. I love turning ideas into polished, user-friendly interfaces. 
+Breaking glass ceilings and bugs, one feature at a time. Because life is better with frictionless UI/UX.
 
 ### 🚀 What I use the most
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge) ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge) ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge) ![Nuxt Badge](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=fff&style=for-the-badge) ![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge) ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)  
