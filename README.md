@@ -21,3 +21,4 @@ You can find more about me on my socials:
 [![Resume](https://img.shields.io/badge/Standard%20Resume-2A3FFB?logo=standardresume&logoColor=fff&style=for-the-badge)](https://rianaandrianomeportfolio.netlify.app/)
 <br/>
 
+⁠Illustration (We can code it) by [Anny Chen](https://twitter.com/followanny), on  [Behance](https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt?locale=fr_FR)
