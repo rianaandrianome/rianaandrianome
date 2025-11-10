@@ -16,7 +16,7 @@ Breaking glass ceilings and bugs, one feature at a time. Because life is better 
 ### 🌐 Socials
 You can find more about me on my socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliceOsdel) 
+[![LinkedIn](https://www.linkedin.com/in/riana-andrianome) 
 [![Resume](https://img.shields.io/badge/Standard%20Resume-2A3FFB?logo=standardresume&logoColor=fff&style=for-the-badge)](https://rianaandrianomeportfolio.netlify.app/)
 <br/>
 
